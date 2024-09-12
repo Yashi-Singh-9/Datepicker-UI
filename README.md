@@ -13,8 +13,8 @@ This project is based on the task described on [Roadmap.sh](https://roadmap.sh/p
 - Hover effects on date cells to enhance user experience.
 
 ## Badges
-[![HTML](https://img.shields.io/badge/HTML-100%25-success)](https://www.w3.org/TR/html52/)  
-[![CSS](https://img.shields.io/badge/CSS-100%25-blue)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![HTML](https://img.shields.io/badge/HTML-100%25-success)](https://www.w3.org/TR/html52/)  [![CSS](https://img.shields.io/badge/CSS-100%25-blue)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![Gitlab last commit](https://img.shields.io/gitlab/last-commit/Yashi-Singh-9/datepicker-ui)](https://github.com/your-username/your-repository)
 
 ## Visuals
 Here’s a preview of the Datepicker UI:
