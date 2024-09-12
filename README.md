@@ -14,7 +14,8 @@ This project is based on the task described on [Roadmap.sh](https://roadmap.sh/p
 
 ## Badges
 [![HTML](https://img.shields.io/badge/HTML-100%25-success)](https://www.w3.org/TR/html52/)  [![CSS](https://img.shields.io/badge/CSS-100%25-blue)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![Gitlab last commit](https://img.shields.io/gitlab/last-commit/Yashi-Singh-9/datepicker-ui)](https://github.com/your-username/your-repository)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Datepicker-UI)](https://github.com/Yashi-Singh-9/Datepicker-UI)
+
 
 ## Visuals
 Here’s a preview of the Datepicker UI:
@@ -26,7 +27,7 @@ No installation required! Simply download the project files and open the `index.
 
 1. Clone the repository or download the zip file.
    ```bash
-   git clone https://gitlab.com/Yashi-Singh-9/datepicker-ui
+   git clone https://github.com/Yashi-Singh-9/Datepicker-UI
    ```
 2. Open `index.html` in your browser to view the datepicker UI.
 3. You can customize the CSS or add JavaScript for more functionality.
